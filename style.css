@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 50%;
+  height: 50vh;
+  border: 0.5px solid;
+  margin: 25% 25%;
+}
+.title {
+  font-size: 20px;
+  text-align: center;
+  border-bottom: 2px solid;
+  color: #f304ef;
+  background-color: rgb(52, 255, 187);
+}
+.fullModel {
+  height: 93%;
+  padding: 35px;
+  background-color: #31fa31;
+}
+.fullModel::content {
+}
+.marginBox {
+  height: 100%;
+  padding: 35px;
+  background: #e07c11;
+}
+.borderBox {
+  height: 100%;
+  padding: 35px;
+  background: #17d07d;
+}
+
+.paddingBox {
+  height: 100%;
+  padding: 35px;
+  background: #1170cf;
+}
+.contentBox {
+  height: 100%;
+  padding: 35px;
+  background: #15d4ed;
+}
