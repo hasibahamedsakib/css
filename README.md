@@ -1,5 +1,4 @@
-```
-"# This is CSS Box Model type Design"
+# This is CSS Box Model type Design"
 ## This model are using HTML AND CSS
 
 ```
